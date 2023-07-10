@@ -1,0 +1,140 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.lgt1 {
+    width: 150px;
+}
+
+.lgt11 {
+    width: 150px;
+}
+
+.formulario {
+    background-color: darkgrey;
+}
+
+.main{
+        margin: 30px 20px;
+    
+}
+.palm {
+    width: 760px;
+}
+
+.arashi {
+    width: 760px;
+}
+
+.eagle1 {
+    width: 760px;
+}
+
+.flam {
+    width: 760px;
+}
+
+.boca1 {
+    width: 760px;
+}
+
+.pile {
+    width: 760px;
+}
+
+.pue {
+    width: 760px;
+}
+
+.sun {
+    width: 760px;
+}
+
+.sw {
+    width: 760px;
+}
+
+.bar {
+    width: 760px;
+}
+
+.mapa-mas-chico {
+    width: 612px;
+}
+
+.prueba {
+    width: 760px;
+
+    background-color: rgba(173, 216, 230, 0.332);
+}
+
+.prueba2 {
+    width: 760px;
+
+    background-color: rgba(173, 216, 230, 0.332);
+}
+
+.prueba3 {
+    width: 760px;
+
+    background-color: rgba(173, 216, 230, 0.332);
+}
+
+.prueba4 {
+    width: 760px;
+
+    background-color: rgba(173, 216, 230, 0.332);
+}
+
+.prueba5 {
+    width: 760px;
+
+    background-color: rgba(173, 216, 230, 0.332);
+}
+
+.footer {
+    background-color: rgba(0, 139, 139, 0.532);
+}
+
+.prueba3 img {
+    width: 760px;
+}
+
+.main article {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+a:hover{
+    background-color: rgba(37, 179, 127, 0.221);
+    color: aquamarine;
+    padding: 20px;
+}
+a:link{
+    background-color: rgba(95, 158, 160, 0.721);
+    color: rgba(0, 139, 139, 0.153);
+}
+@media (min-width: 760px) {
+    .header {
+        align-items: flex-start;
+    }
+
+    .header img {
+        padding: 0 50px;
+        width: 250px;
+    }
+
+    .header ul {
+        padding: 0 60px;
+    }
+
+    .main article img {
+        width: 600px;
+    }
+
+    .main article p {
+        width: 600px;
+    }
+}
